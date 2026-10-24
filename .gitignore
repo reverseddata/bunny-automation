@@ -1,0 +1,8 @@
+# tokens and runtime state never go in git
+*.token
+bhopp_token*
+.env
+*.sqlite
+*.sqlite-*
+__pycache__/
+.venv/
